@@ -87,7 +87,7 @@ Redux の公式ページにおいても、以下のように述べられてい�
 >
 > These trade-offs might be acceptable for your use-cases, but they're worth knowing.
 
-つまり、状態管理ライブラリを大雑把ですが 2 つにカテゴライズしています。
+つまり、状態管理ライブラリを大雑把ですが 2 つの視点でカテゴライズしています。
 
 - 1 つのストア(global, atomic store) vs 複数のストア(local, distributed)
 - 直接 State を変更 vs イベントで間接的に State を変更
